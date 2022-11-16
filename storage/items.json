@@ -1,0 +1,102 @@
+{
+    "product": [
+        {
+            "id": 0,
+            "item": "Video Card",
+            "name": "RTX 3090",
+            "class": "Computers",
+            "description": "The best for a new and better experience!"
+        },
+        {
+            "id": 1,
+            "item":"Video Card",
+            "name": "RTX 4090",
+            "class": "Computers",
+            "description": "The latest video card, and the most technology!"
+        },
+        {
+            "id": 2,
+            "item":"Motherboard",
+            "name": "Z790 AORUS MASTER",
+            "class": "Computers",
+            "description": "Gigabyte Z790 AORUS MASTER, Intel Z790, S 1700, DDR5, PCIe 5.0, SATA3, 5x M.2, 10GbE, WiFi 6E/BT, USB 3.2 Gen 2x2, E-ATX"
+        },
+        {
+            "id": 3,
+            "item":"Motherboard",
+            "name": "ASRock B450M Steel Legend",
+            "class": "Computers",
+            "description": "Socket AM4 / DDR4"
+        },
+        {
+            "id": 4,
+            "item":"SSD",
+            "name": "Crucial 500GB",
+            "class": "Computers",
+            "description": "SSD for a better fluid work"
+        },
+        {
+            "id": 5,
+            "item":"SSD",
+            "name": "Kingston 1T",
+            "class": "Computers",
+            "description": "More space, more velocity"
+        },
+        {
+            "id": 6,
+            "item":"SSD M.2",
+            "name": "SSD Corsair MP150 480GB M.2 NVMe",
+            "class": "Computers",
+            "description": "High performance"
+        },
+        {
+            "id": 7,
+            "item":"RAM",
+            "name": "Gigabyte RAM memory Aorus 32GB",
+            "class": "Computers",
+            "description": "2x16gb DDR5 5200mhz"
+        },
+        {
+            "id": 8,
+            "item":"RAM",
+            "name": "RAM memory Ddr4 8gb",
+            "class": "Computers",
+            "description": "2666mhz T-Force Vulcan (1x8) Red Team Group"
+        },
+        {
+            "id": 9,
+            "item":"Power supply",
+            "name": "Power supply Corsair 850W",
+            "class": "Computers",
+            "description": "RM850x - Modular - 80 Plus Gold - white"
+        },
+        {
+            "id": 10,
+            "item":"Gamer cabinet",
+            "name": "DeepCool Macube 310",
+            "class": "Computers",
+            "description": "Mid Tower, glass Lateral - MACUBE310 BK"
+        },
+        {
+            "id": 11,
+            "item":"Gamer cabinet",
+            "name": "Gamer cabinet Aigo Darkflash",
+            "class": "Computers",
+            "description": "DK100 Mid-Tower DK100-BK"
+        },
+        {
+            "id": 12,
+            "item":"Processor",
+            "name": "Processor Intel I9 10900KF",
+            "class": "Computers",
+            "description": "3.7GHz Blue"
+        },
+        {
+            "id": 13,
+            "item":"Processor",
+            "name": "Processor Amd Ryzen 9 7900x",
+            "class": "Computers",
+            "description": "Am5 5.6GHz - 100-100000589WOF"
+        }
+    ]
+}
